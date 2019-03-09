@@ -15,7 +15,7 @@
             <div class="clean" v-if="isDirty" @click.stop="cleanFile">
                 <slot name="close-message">
                     x
-                </div>
+                </slot>
             </div>
         </div>
         <div class="uploader">
