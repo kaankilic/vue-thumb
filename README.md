@@ -1,5 +1,5 @@
 # Vue-Thumb
-<img src="./public/vue-thumb.svg" alt="Vue-Thumb" />
+<img src="./public/vue-thumb.svg" height="80" alt="Vue-Thumb" />
 Vue Thumb is a minimalistic and stylish image uploader with a thumbnail view for VueJs.
 
 ## Installation
