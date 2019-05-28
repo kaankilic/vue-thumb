@@ -1,10 +1,10 @@
-import component from './components/VueThumb.vue';
+import VueThumb from './components/VueThumb.vue';
 
 // Declare install function executed by Vue.use()
 export function install(Vue) {
 	if (install.installed) return;
 	install.installed = true;
-	Vue.component('VueThumb', component);
+	Vue.component('VueThumb', VueThumb);
 }
 
 // Create module definition for Vue.use()
