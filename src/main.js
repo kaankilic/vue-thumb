@@ -1,4 +1,4 @@
-import VueThumb from './componentsVueThumb.vue';
+import VueThumb from './components/VueThumb.vue';
 export default {
 	install(Vue) {
 		if (install.installed) return;
