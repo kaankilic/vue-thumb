@@ -1,6 +1,6 @@
 {
 	"name": "vue-thumb",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"main": "dist/vue-thumb.umd.js",
 	"module": "dist/vue-thumb.esm.js",
 	"unpkg": "dist/vue-thumb.min.js",
