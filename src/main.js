@@ -1,8 +1,9 @@
+import VueThumb as vThumb from './components/VueThumb.vue';
 const VueThumb = {
 	install(Vue, options) {
 		if (install.installed) return;
 		install.installed = true;
-		Vue.component('vue-thumb', require('./components/VueThumb.vue').default);
+		Vue.component('vue-thumb', vThumb);
 	}
 };
 
