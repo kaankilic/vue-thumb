@@ -86,7 +86,8 @@
 </style>
 <script>
 export default {
-    props: ['name','default','size'],
+	name: 'vue-thumb',
+    props:['name','default','size'],
     data() {
         return {
             originalFile: this.default,
